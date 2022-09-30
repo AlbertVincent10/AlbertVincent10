@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-AVLCharts-AVLChartsUITests/Pods-AVLCharts-AVLChartsUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Charts/Charts.framework
+${BUILT_PRODUCTS_DIR}/SwiftAlgorithms/Algorithms.framework
+${BUILT_PRODUCTS_DIR}/SwiftCharts/SwiftCharts.framework
